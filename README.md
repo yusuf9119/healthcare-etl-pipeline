@@ -9,7 +9,7 @@ End to end ETL pipeline — raw CSV to structured SQLite database with analytica
 ---
 ## What it does
  
-Pulls a messy healthcare CSV from GitHub, cleans it, loads it into SQLite, and runs SQL queries to surface patient insights.
+Pulls a messy healthcare CSV from GitHub, cleans it, loads it into SQLite, and runs SQL queries to show patient insights.
  
 ---
  
