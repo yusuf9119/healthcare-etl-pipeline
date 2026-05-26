@@ -4,7 +4,7 @@ End to end ETL pipeline — raw CSV to structured SQLite database with analytica
 
 ## Pipeline
  
- (healthcarepipeline.png)
+<img width="1033" height="504" src="healthcarepipeline.png" />
  
 ---
 ## What it does
